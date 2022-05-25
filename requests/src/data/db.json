@@ -1,0 +1,54 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Camisa",
+      "price": 59.9
+    },
+    {
+      "id": 2,
+      "name": "Calça vermelha",
+      "price": 90
+    },
+    {
+      "id": 3,
+      "name": "Boné aba reta",
+      "price": 29.9
+    },
+    {
+      "name": "Capa de chuva",
+      "price": "41",
+      "id": 4
+    },
+    {
+      "name": "Bola",
+      "price": "10",
+      "id": 5
+    },
+    {
+      "name": "Teste",
+      "price": "111",
+      "id": 6
+    },
+    {
+      "name": "Bola 2",
+      "price": "100",
+      "id": 7
+    },
+    {
+      "name": "Bola 2",
+      "price": "100",
+      "id": 8
+    },
+    {
+      "name": "Bola 2",
+      "price": "100",
+      "id": 9
+    },
+    {
+      "name": "Bolaa",
+      "price": "111",
+      "id": 10
+    }
+  ]
+}
